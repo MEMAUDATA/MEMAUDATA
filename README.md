@@ -5,10 +5,9 @@ My passions are travelling, tasting beers and also takling with people to exchan
 
 ### Contributions :
 
-- [Hearing data](https://hearingdata.streamlit.app/) : A web app to analyze NoaD database.
+- [Hearing data](https://hearingdata.streamlit.app/) : A web app to analyze Noah database.
 - [MEMAU](https://memau.eu/) : A web plateform dedicated to students in audiology. They can have access to final year projects in audiology but also different types of ressources
 such as questionnaires, tools for statistics and so on.
 - [MEMAUDATA](https://data.memau.eu/) : Web app to fullfill audiological questionnaires and get the scores.
-  
   >[!WARNING]
   >On-going project!
