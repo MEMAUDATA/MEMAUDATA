@@ -9,7 +9,7 @@ squash, bouldering and cycling 🚴.
 - [Hearing data](https://hearingdata.streamlit.app/) : A web app to analyze Noah database using Machine Learning!
 - [MEMAU](https://memau.eu/) : A web plateform dedicated to students in audiology. They can have access to final year projects in audiology but also different types of ressources
 such as questionnaires, tools for statistics and so on.
-- [MEMAUDATA](https://data.memau.eu/) : Web plateform to fullfill audiological questionnaires and get the scores.
+- [MEMAUDATA](https://data.memau.eu/) : Web plateform to fullfill audiological questionnaires and get the scores. Repo [Questionnaires] contains all the .html scripts of each questionnaires.
 
   
 ### Teaching subjects:
@@ -18,7 +18,8 @@ such as questionnaires, tools for statistics and so on.
 - Statistic for final year students in audiology.
 - Audiology for speech therapist students.
 - Research methods for speech therapist students.
-
+- Python to students in business.
+- Data science to studentss in audiology.
 
 [Link to my webpage](https://memaudata.github.io/) 
 
