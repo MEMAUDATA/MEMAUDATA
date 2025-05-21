@@ -1,6 +1,6 @@
 Hi there 👋, 
 
-I'm Nicolas😊. I used to be an audiologist, lecturer  at Toulouse 3 University and a CNRS researcher. I've changed path by becomming a data scientist.
+I'm Nicolas 😊. I used to be an audiologist, lecturer  at Toulouse 3 University and a CNRS researcher. I've changed path by becomming a data scientist.
 My passions are travelling ✈️, tasting beers🍻 and also takling with people to exchange ideas. Regardings sports, I like Handball 🤾, snow glidding 🏂
 squash, bouldering and cycling 🚴.
 
