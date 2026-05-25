@@ -4,7 +4,7 @@ I'm Nicolas 😊. I used to be an audiologist, a lecturer at Toulouse 3 Universi
 My passions are travelling ✈️, tasting beers 🍻 and also talking with people to exchange ideas. Regarding sports, I like handball 🤾, snowboarding 🏂,
 squash, bouldering and cycling 🚴.
 
-### Contributions:
+### Projects I've built:
 
 - [Hearing Data Science](https://www.hearingdatascience.com/): A SaaS that helps hearing care professionals pilot their practice through data-driven clinical indicators.
 - [MEMAU](https://memau.eu/): A web platform dedicated to audiology students. They can access final-year projects in audiology as well as different types of resources such as questionnaires, statistical tools and so on.
